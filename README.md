@@ -27,7 +27,7 @@ For budget-conscious users:
 
 - **Frontend:** HTML, CSS, JavaScript, Angular *(or React — specify)*
 - **Backend:** Java, Spring Boot
-- **Database:** MySQL *(or MongoDB — update as needed)*
+- **Database:** MySQL **
 - **API Integration:** Mock or real-time cab provider APIs
 - **Tools Used:** Git, Postman, Visual Studio Code, [add any other tools like Docker or Swagger if used]
 
