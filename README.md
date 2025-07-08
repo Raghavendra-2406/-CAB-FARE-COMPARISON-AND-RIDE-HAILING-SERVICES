@@ -25,11 +25,28 @@ For budget-conscious users:
 
 ## 🧱 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Angular *(or React — specify)*
-- **Backend:** Java, Spring Boot
-- **Database:** MySQL **
-- **API Integration:** Mock or real-time cab provider APIs
-- **Tools Used:** Git, Postman, Visual Studio Code, [add any other tools like Docker or Swagger if used]
+### 🚀 Frontend:
+- Angular CLI
+- TypeScript
+- HTML, CSS
+- Tailwind CSS
+
+### 🧩 Backend:
+- Java
+- Spring Boot
+- Hibernate ORM
+
+### 🔐 Authentication:
+- JSON Web Token (JWT)
+
+### 🗄️ Database:
+- MySQL
+
+### 🧰 Others:
+- RESTful APIs
+- Git & GitHub for version control
+- Postman for API testing
+
 
 ---
 
