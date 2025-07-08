@@ -49,11 +49,3 @@ For budget-conscious users:
 - Great tool for students, travelers, and budget-savvy users
 
 ---
-
-## 📸 Screenshots
-
-*(Add screenshots here using Markdown once uploaded to your repo)*  
-Example:
-```md
-![Home Page](screenshots/home.png)
-![Comparison Result](screenshots/comparison.png)
